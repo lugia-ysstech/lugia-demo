@@ -1,0 +1,13 @@
+{
+  "extraMega": {
+    "engines": {
+      "desktop": "1.x",
+      "scaffolding": {
+        "type": "npm",
+        "name": "@lugia/scaffolding-admin",
+        "registry": "https://registry.npmjs.org/",
+        "version": "1.2.1"
+      }
+    }
+  }
+}
