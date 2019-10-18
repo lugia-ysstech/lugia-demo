@@ -1,0 +1,184 @@
+{
+  "areaId2ChildPadIndexString": {},
+  "assets": {
+    "widgetIdHasAssetPropsName": {},
+    "widgetIdHasAssetThemeName": {}
+  },
+  "designPoint": [
+    -1567,
+    -2029
+  ],
+  "forkDependencies": [],
+  "forkPad": {
+    "group": false,
+    "height": 5000,
+    "id": "forkPad",
+    "id2WidgetInfo": {},
+    "idSeq": 67,
+    "index": 0,
+    "lastIndex": 41,
+    "layers": [],
+    "point": [
+      -1567,
+      -2029
+    ],
+    "type": "ForkPad",
+    "width": 5000,
+    "zIndex": 4000
+  },
+  "layoutInfos": {
+    "mode2Config": {
+      "1000x720": {
+        "forkPadPoint": [
+          -1669,
+          -2080
+        ],
+        "mainPadSize": {
+          "height": 720,
+          "width": 1000
+        },
+        "scale": 0.98,
+        "widthRange": [
+          0,
+          1000
+        ]
+      },
+      "1200x900": {
+        "forkPadPoint": [
+          -1567,
+          -2029
+        ],
+        "mainPadSize": {
+          "height": 900,
+          "width": 1200
+        },
+        "scale": 0.98,
+        "widthRange": [
+          1001,
+          50000
+        ]
+      }
+    },
+    "mode2LayoutData": {
+      "1000x720": {},
+      "1200x900": {
+        "wbxAof43": {
+          "a": "mainPad",
+          "h": 692,
+          "p": [
+            97.95918367346917,
+            91.83673469387871
+          ],
+          "theme": {},
+          "w": 1000,
+          "wi": "wbxAof43"
+        }
+      }
+    }
+  },
+  "lugiax": {
+    "page2mutation": {},
+    "widgetId2EventName2MutationInfo": {
+      "wbxAof43": {
+        "addList": {
+          "bindType": "connect",
+          "e": "addList",
+          "m": "todo",
+          "mu": "addList"
+        },
+        "deleteAllList": {
+          "bindType": "connect",
+          "e": "deleteAllList",
+          "m": "todo",
+          "mu": "deleteAllList"
+        },
+        "deleteList": {
+          "bindType": "connect",
+          "e": "deleteList",
+          "m": "todo",
+          "mu": "deleteList"
+        },
+        "onSelect": {
+          "bindType": "connect",
+          "e": "onSelect",
+          "m": "todo",
+          "mu": "selectList"
+        }
+      }
+    },
+    "widgetId2PropsName2BindInfo": {
+      "wbxAof43": {
+        "list": {
+          "b": "connect",
+          "f": "list",
+          "m": "todo",
+          "p": "list"
+        },
+        "refreshDisable": {
+          "b": "connect",
+          "f": "refreshDisable",
+          "m": "todo",
+          "p": "refreshDisable"
+        },
+        "selectList": {
+          "b": "connect",
+          "f": "selectList",
+          "m": "todo",
+          "p": "selectList"
+        }
+      }
+    }
+  },
+  "mainDependencies": [
+    {
+      "module": "@/components",
+      "version": "1.0.0",
+      "widgetName": "TodoList"
+    }
+  ],
+  "mainPad": {
+    "backgroudColor": "#f8f8f8",
+    "group": false,
+    "height": 900,
+    "id": "mainPad",
+    "id2WidgetInfo": {
+      "wbxAof43": {
+        "i": "wbxAof43",
+        "m": "@/components",
+        "p": {},
+        "v": "1.0.0",
+        "w": "TodoList"
+      }
+    },
+    "idSeq": 91291,
+    "index": 0,
+    "lastIndex": 71,
+    "layers": [
+      {
+        "h": 692,
+        "i": "wbxAof43",
+        "p": [
+          97.95918367346917,
+          91.83673469387871
+        ],
+        "w": 1000,
+        "z": 0
+      }
+    ],
+    "point": [
+      333,
+      21
+    ],
+    "type": "MainPad",
+    "width": 1200,
+    "zIndex": 4000
+  },
+  "scale": 0.98,
+  "themes": {
+    "widgetId2ThemeInfo": {}
+  },
+  "type": "PolarBear",
+  "widgetId2ChildPad": {},
+  "widgetId2Locked": {},
+  "zip": true
+}
