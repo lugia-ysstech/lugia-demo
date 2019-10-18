@@ -1,0 +1,58 @@
+{
+  "widgetName": "TodoList",
+  "title": "TodoList 组件",
+  "desc": "自定义的 TodoList 组件",
+  "category": [
+    "数据展示"
+  ],
+  "events": {
+    "addList": {
+      "desc": "添加代办事项",
+      "args": [
+        {
+          "name": "list",
+          "desc": "添加代办事项点击时抛出的事件",
+          "type": "Object"
+        }
+      ]
+    },
+    "onSelect": {
+      "desc": "选择代办事项",
+      "args": [
+        {
+          "name": "listId",
+          "desc": "选择代办事项点击时抛出的事件",
+          "type": "string"
+        }
+      ]
+    },
+    "deleteList": {
+      "desc": "删除选中代办事项",
+      "args": []
+    },
+    "deleteAllList": {
+      "desc": "删除全部代办事项",
+      "args": []
+    }
+  },
+  "props": {
+    "refreshDisable": {
+      "type": "boolean",
+      "desc": "删除代办事项按钮是否禁用",
+      "defaultValue": true
+    },
+    "list": {
+      "type": "Object[]",
+      "desc": "代办事项列表",
+      "defaultValue": []
+    },
+    "selectList": {
+      "type": "string[]",
+      "desc": "选中的代办事项",
+      "defaultValue": []
+    }
+  },
+  "type": {},
+  "designInfo": {},
+  "theme": {}
+}

@@ -1,0 +1,2279 @@
+{
+  "areaId2ChildPadIndexString": {
+    "ac(pue0": "mainPad.wbcuOVs0",
+    "ac@#xa6": "acw]jV0.wbcN)S(21",
+    "acPf[!3": "acw]jV0.wbcfCG19",
+    "acXd4i1": "acw]jV0.wbcfB%C1",
+    "acZg832": "acw]jV0.wbc]w[$5",
+    "acoNvM4": "acw]jV0.wbcQ%[G13",
+    "acw]jV0": "mainPad.wbc4QQx0",
+    "acyjZ#5": "acw]jV0.wbcmKjG17"
+  },
+  "assets": {
+    "widgetIdHasAssetPropsName": {},
+    "widgetIdHasAssetThemeName": {}
+  },
+  "designPoint": [
+    0,
+    0
+  ],
+  "forkDependencies": [],
+  "forkPad": {
+    "group": false,
+    "height": 50000,
+    "id": "forkPad",
+    "id2WidgetInfo": {},
+    "idSeq": 67,
+    "index": 0,
+    "lastIndex": 41,
+    "layers": [],
+    "point": [
+      -24040,
+      -24763
+    ],
+    "type": "ForkPad",
+    "width": 50000,
+    "zIndex": 4000
+  },
+  "layoutInfos": {
+    "mode2Config": {
+      "1000.3469387755104x691.5612244897959": {
+        "mainPadSize": {
+          "height": 691.5612244897959,
+          "width": 1000.3469387755104
+        },
+        "widthRange": [
+          0,
+          50000
+        ]
+      }
+    },
+    "mode2LayoutData": {
+      "1000.3469387755104x691.5612244897959": {
+        "wbc)ya90": {
+          "areaId": "mainPad",
+          "height": 32,
+          "point": [
+            761.7974683544303,
+            3.9280547662103515
+          ],
+          "theme": {
+            "ButtonText": {
+              "active": {
+                "color": "#ffffff",
+                "font": {
+                  "family": "",
+                  "size": "",
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              },
+              "disabled": {
+                "color": "#666666",
+                "font": {
+                  "family": "",
+                  "size": "",
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              },
+              "focus": {
+                "color": "#ffffff",
+                "font": {
+                  "family": "",
+                  "size": "",
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              },
+              "normal": {
+                "color": "#ffffff",
+                "font": {
+                  "family": "",
+                  "size": "",
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            },
+            "Container": {
+              "active": {
+                "background": {
+                  "color": "#d50101"
+                },
+                "border": "none"
+              },
+              "disabled": {
+                "background": {
+                  "color": "#e8e8e8"
+                },
+                "border": "none"
+              },
+              "focus": {
+                "background": {
+                  "color": "#d50101"
+                }
+              },
+              "hover": {
+                "background": {
+                  "color": "#c30000"
+                }
+              },
+              "normal": {
+                "background": {
+                  "color": "#d50101"
+                },
+                "border": "none"
+              }
+            }
+          },
+          "widgetId": "wbc)ya90",
+          "width": 64
+        },
+        "wbc*BML20": {
+          "areaId": "acyjZ#5",
+          "height": 26,
+          "point": [
+            12.661131111368718,
+            16.761351759377362
+          ],
+          "theme": {},
+          "widgetId": "wbc*BML20",
+          "width": 36
+        },
+        "wbc*sBq1": {
+          "areaId": "ac(pue0",
+          "height": 32,
+          "point": [
+            25.93670886075961,
+            9
+          ],
+          "theme": {
+            "Container": {
+              "normal": {
+                "height": 32,
+                "width": 800
+              }
+            },
+            "Input": {
+              "active": {
+                "background": "none",
+                "border": "none"
+              },
+              "hover": {
+                "background": {
+                  "color": "#dddddd"
+                },
+                "border": "none"
+              },
+              "normal": {
+                "background": {
+                  "color": "#e8e8e8"
+                },
+                "border": "none"
+              }
+            }
+          },
+          "widgetId": "wbc*sBq1",
+          "width": 800
+        },
+        "wbc1fA823": {
+          "areaId": "ac@#xa6",
+          "height": 16,
+          "point": [
+            834,
+            18.5
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "#999999",
+                "font": {
+                  "family": "",
+                  "size": 14,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbc1fA823",
+          "width": 70
+        },
+        "wbc4QQx0": {
+          "areaId": "mainPad",
+          "height": 576,
+          "point": [
+            0.34693877551035257,
+            64.1530612244901
+          ],
+          "theme": {
+            "Container": {
+              "normal": {
+                "height": 576,
+                "width": 1000
+              }
+            }
+          },
+          "widgetId": "wbc4QQx0",
+          "width": 1000
+        },
+        "wbc5M%@2": {
+          "areaId": "acXd4i1",
+          "height": 18,
+          "point": [
+            37,
+            18
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "#333333",
+                "font": {
+                  "family": "",
+                  "size": 16,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbc5M%@2",
+          "width": 182
+        },
+        "wbc8%Ln16": {
+          "areaId": "acoNvM4",
+          "height": 16,
+          "point": [
+            834,
+            18.5
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "#999999",
+                "font": {
+                  "family": "",
+                  "size": 14,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbc8%Ln16",
+          "width": 70
+        },
+        "wbc@xZQ15": {
+          "areaId": "acoNvM4",
+          "height": 18,
+          "point": [
+            34,
+            16
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "#333333",
+                "font": {
+                  "family": "",
+                  "size": 16,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbc@xZQ15",
+          "width": 352
+        },
+        "wbcCoUo19": {
+          "areaId": "acyjZ#5",
+          "height": 16,
+          "point": [
+            834,
+            18.5
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "#999999",
+                "font": {
+                  "family": "",
+                  "size": 14,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbcCoUo19",
+          "width": 70
+        },
+        "wbcF24X8": {
+          "areaId": "acZg832",
+          "height": 26,
+          "point": [
+            12.661131111368718,
+            16.761351759377362
+          ],
+          "theme": {},
+          "widgetId": "wbcF24X8",
+          "width": 36
+        },
+        "wbcJQ(N10": {
+          "areaId": "acPf[!3",
+          "height": 26,
+          "point": [
+            12.8354430379743,
+            14.798049007083762
+          ],
+          "theme": {},
+          "widgetId": "wbcJQ(N10",
+          "width": 36
+        },
+        "wbcJV2b3": {
+          "areaId": "acXd4i1",
+          "height": 16,
+          "point": [
+            834,
+            18.5
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "#999999",
+                "font": {
+                  "family": "",
+                  "size": 14,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbcJV2b3",
+          "width": 70
+        },
+        "wbcN)S(21": {
+          "areaId": "acw]jV0",
+          "height": 50,
+          "point": [
+            45.36889692585896,
+            348.2239731335569
+          ],
+          "theme": {
+            "Container": {
+              "normal": {
+                "height": 50,
+                "width": 920
+              }
+            }
+          },
+          "widgetId": "wbcN)S(21",
+          "width": 920
+        },
+        "wbcP0x00": {
+          "areaId": "mainPad",
+          "height": 16,
+          "point": [
+            38.79746835443041,
+            28.959183673469397
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "#999999",
+                "font": {
+                  "family": "",
+                  "size": 14,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbcP0x00",
+          "width": 238
+        },
+        "wbcQ%[G13": {
+          "areaId": "acw]jV0",
+          "height": 50,
+          "point": [
+            42.34848876259366,
+            217.2239731335569
+          ],
+          "theme": {
+            "Container": {
+              "normal": {
+                "height": 50,
+                "width": 920
+              }
+            }
+          },
+          "widgetId": "wbcQ%[G13",
+          "width": 920
+        },
+        "wbcWc^84": {
+          "areaId": "acXd4i1",
+          "height": 26,
+          "point": [
+            12.486819184763135,
+            16.64208570433152
+          ],
+          "theme": {},
+          "widgetId": "wbcWc^84",
+          "width": 36
+        },
+        "wbcZg6K2": {
+          "areaId": "ac(pue0",
+          "height": 32,
+          "point": [
+            844,
+            8
+          ],
+          "theme": {
+            "Container": {
+              "normal": {
+                "width": 120
+              }
+            }
+          },
+          "widgetId": "wbcZg6K2",
+          "width": 120
+        },
+        "wbc]UVQ18": {
+          "areaId": "acyjZ#5",
+          "height": 18,
+          "point": [
+            37,
+            18
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "#333333",
+                "font": {
+                  "family": "",
+                  "size": 16,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbc]UVQ18",
+          "width": 426
+        },
+        "wbc]w[$5": {
+          "areaId": "acw]jV0",
+          "height": 50,
+          "point": [
+            42.532162231981374,
+            84.48927925600628
+          ],
+          "theme": {
+            "Container": {
+              "normal": {
+                "height": 50,
+                "width": 920
+              }
+            }
+          },
+          "widgetId": "wbc]w[$5",
+          "width": 920
+        },
+        "wbccJ9@14": {
+          "areaId": "acoNvM4",
+          "height": 26,
+          "point": [
+            12.8354430379743,
+            14.798049007083762
+          ],
+          "theme": {},
+          "widgetId": "wbccJ9@14",
+          "width": 36
+        },
+        "wbcdGc122": {
+          "areaId": "ac@#xa6",
+          "height": 18,
+          "point": [
+            37,
+            18
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "#333333",
+                "font": {
+                  "family": "",
+                  "size": 16,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbcdGc122",
+          "width": 182
+        },
+        "wbcfB%C1": {
+          "areaId": "acw]jV0",
+          "height": 50,
+          "point": [
+            43.532162231981374,
+            151.48927925600628
+          ],
+          "theme": {
+            "Container": {
+              "normal": {
+                "height": 50,
+                "width": 920
+              }
+            }
+          },
+          "widgetId": "wbcfB%C1",
+          "width": 920
+        },
+        "wbcfCG19": {
+          "areaId": "acw]jV0",
+          "height": 50,
+          "point": [
+            41.532162231981374,
+            20.48927925600617
+          ],
+          "theme": {
+            "Container": {
+              "normal": {
+                "height": 50,
+                "width": 920
+              }
+            }
+          },
+          "widgetId": "wbcfCG19",
+          "width": 920
+        },
+        "wbcfeEP12": {
+          "areaId": "acPf[!3",
+          "height": 16,
+          "point": [
+            834,
+            18.5
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "#999999",
+                "font": {
+                  "family": "",
+                  "size": 14,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbcfeEP12",
+          "width": 70
+        },
+        "wbchtWo0": {
+          "areaId": "mainPad",
+          "height": 20,
+          "point": [
+            38.79746835443041,
+            0
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "",
+                "font": {
+                  "family": "",
+                  "size": 18,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbchtWo0",
+          "width": 72
+        },
+        "wbcmKjG17": {
+          "areaId": "acw]jV0",
+          "height": 50,
+          "point": [
+            44.36889692585896,
+            281.223973133557
+          ],
+          "theme": {
+            "Container": {
+              "normal": {
+                "height": 50,
+                "width": 920
+              }
+            }
+          },
+          "widgetId": "wbcmKjG17",
+          "width": 920
+        },
+        "wbco8a47": {
+          "areaId": "acZg832",
+          "height": 16,
+          "point": [
+            834,
+            18.5
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "#999999",
+                "font": {
+                  "family": "",
+                  "size": 14,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbco8a47",
+          "width": 70
+        },
+        "wbcrusA6": {
+          "areaId": "acZg832",
+          "height": 18,
+          "point": [
+            37,
+            18
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "#333333",
+                "font": {
+                  "family": "",
+                  "size": 16,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbcrusA6",
+          "width": 426
+        },
+        "wbcu2J%0": {
+          "areaId": "mainPad",
+          "height": 32,
+          "point": [
+            839.7974683544303,
+            3.9280547662103515
+          ],
+          "theme": {
+            "ButtonText": {
+              "focus": {
+                "color": "#ffffff",
+                "font": {
+                  "family": "",
+                  "size": "",
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              },
+              "hover": {
+                "color": "#ffffff",
+                "font": {
+                  "family": "",
+                  "size": "",
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              },
+              "normal": {
+                "color": "#666666",
+                "font": {
+                  "family": "",
+                  "size": "",
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            },
+            "Container": {
+              "active": {
+                "background": {
+                  "color": "#bf0000"
+                },
+                "border": "none"
+              },
+              "focus": {
+                "background": {
+                  "color": "#d50101"
+                }
+              },
+              "hover": {
+                "background": {
+                  "color": "#d50101"
+                },
+                "border": "none"
+              },
+              "normal": {
+                "background": "none",
+                "border": {
+                  "all": {
+                    "color": "#999999",
+                    "style": "solid",
+                    "width": ""
+                  },
+                  "bottom": {
+                    "color": "#999999",
+                    "style": "solid",
+                    "width": ""
+                  },
+                  "left": {
+                    "color": "#999999",
+                    "style": "solid",
+                    "width": ""
+                  },
+                  "right": {
+                    "color": "#999999",
+                    "style": "solid",
+                    "width": ""
+                  },
+                  "top": {
+                    "color": "#999999",
+                    "style": "solid",
+                    "width": ""
+                  }
+                }
+              }
+            }
+          },
+          "widgetId": "wbcu2J%0",
+          "width": 122
+        },
+        "wbcuB5&24": {
+          "areaId": "ac@#xa6",
+          "height": 26,
+          "point": [
+            12.486819184763135,
+            16.64208570433152
+          ],
+          "theme": {},
+          "widgetId": "wbcuB5&24",
+          "width": 36
+        },
+        "wbcuOVs0": {
+          "areaId": "mainPad",
+          "height": 50,
+          "point": [
+            0,
+            641.5612244897959
+          ],
+          "theme": {
+            "Container": {
+              "normal": {
+                "border": "none",
+                "height": 50,
+                "width": 1000
+              }
+            }
+          },
+          "widgetId": "wbcuOVs0",
+          "width": 1000
+        },
+        "wbcwRU)11": {
+          "areaId": "acPf[!3",
+          "height": 18,
+          "point": [
+            34,
+            16
+          ],
+          "theme": {
+            "LabelConfig": {
+              "normal": {
+                "color": "#333333",
+                "font": {
+                  "family": "",
+                  "size": 16,
+                  "style": "normal",
+                  "weight": "normal"
+                }
+              }
+            }
+          },
+          "widgetId": "wbcwRU)11",
+          "width": 352
+        }
+      }
+    }
+  },
+  "lugiax": {
+    "page2mutation": {},
+    "widgetId2EventName2MutationInfo": {},
+    "widgetId2PropsName2BindInfo": {}
+  },
+  "mainDependencies": [
+    {
+      "module": "@lugia/lugia-web",
+      "monkeyType": "Point",
+      "props": {
+        "height": 130,
+        "width": 350
+      },
+      "version": "1.0.0",
+      "widgetName": "Card"
+    },
+    {
+      "module": "@lugia/lugia-web",
+      "version": "1.0.0",
+      "widgetName": "Label"
+    },
+    {
+      "module": "@lugia/lugia-web",
+      "version": "1.0.0",
+      "widgetName": "Button"
+    },
+    {
+      "module": "@lugia/lugia-web",
+      "version": "1.0.0",
+      "widgetName": "Radio"
+    },
+    {
+      "module": "@lugia/lugia-web",
+      "version": "1.0.0",
+      "widgetName": "Input"
+    }
+  ],
+  "mainPad": {
+    "backgroudColor": "#f8f8f8",
+    "children": [
+      {
+        "children": [
+          {
+            "path": [
+              "@root",
+              "wbc4QQx0"
+            ],
+            "widgetId": "wbcfB%C1"
+          },
+          {
+            "path": [
+              "@root",
+              "wbc4QQx0"
+            ],
+            "widgetId": "wbc]w[$5"
+          },
+          {
+            "path": [
+              "@root",
+              "wbc4QQx0"
+            ],
+            "widgetId": "wbcfCG19"
+          },
+          {
+            "path": [
+              "@root",
+              "wbc4QQx0"
+            ],
+            "widgetId": "wbcQ%[G13"
+          },
+          {
+            "path": [
+              "@root",
+              "wbc4QQx0"
+            ],
+            "widgetId": "wbcmKjG17"
+          },
+          {
+            "path": [
+              "@root",
+              "wbc4QQx0"
+            ],
+            "widgetId": "wbcN)S(21"
+          }
+        ],
+        "path": [
+          "@root"
+        ],
+        "widgetId": "wbc4QQx0"
+      },
+      {
+        "path": [
+          "@root"
+        ],
+        "widgetId": "wbcuOVs0"
+      }
+    ],
+    "group": false,
+    "height": 691.5612244897959,
+    "id": "mainPad",
+    "id2WidgetInfo": {
+      "wbc)ya90": {
+        "id": "wbc)ya90",
+        "module": "@lugia/lugia-web",
+        "props": {
+          "block": false,
+          "disabled": false,
+          "shape": "default",
+          "size": "default",
+          "text": "删除",
+          "type": "primary"
+        },
+        "version": "1.0.0",
+        "widgetName": "Button"
+      },
+      "wbc4QQx0": {
+        "childAreaId": "acw]jV0",
+        "id": "wbc4QQx0",
+        "module": "@lugia/lugia-web",
+        "props": {
+          "TargetContainer": {
+            "module": "@lugia/lugia-web",
+            "monkeyType": "Point",
+            "props": {
+              "height": 130,
+              "width": 350
+            },
+            "version": "1.0.0",
+            "widgetName": "Card"
+          },
+          "height": 130,
+          "width": 350
+        },
+        "version": "1.0.0",
+        "widgetName": "MonkeyKing"
+      },
+      "wbcP0x00": {
+        "id": "wbcP0x00",
+        "module": "@lugia/lugia-web",
+        "props": {
+          "text": "代办事件任务栏显示最近要代办的事件"
+        },
+        "version": "1.0.0",
+        "widgetName": "Label"
+      },
+      "wbchtWo0": {
+        "id": "wbchtWo0",
+        "module": "@lugia/lugia-web",
+        "props": {
+          "text": "代办事项"
+        },
+        "version": "1.0.0",
+        "widgetName": "Label"
+      },
+      "wbcu2J%0": {
+        "id": "wbcu2J%0",
+        "module": "@lugia/lugia-web",
+        "props": {
+          "block": false,
+          "disabled": false,
+          "shape": "default",
+          "size": "default",
+          "text": "清空全部代办",
+          "type": "primary"
+        },
+        "version": "1.0.0",
+        "widgetName": "Button"
+      },
+      "wbcuOVs0": {
+        "childAreaId": "ac(pue0",
+        "id": "wbcuOVs0",
+        "module": "@lugia/lugia-web",
+        "props": {
+          "TargetContainer": {
+            "module": "@lugia/lugia-web",
+            "monkeyType": "Point",
+            "props": {
+              "height": 130,
+              "width": 350
+            },
+            "version": "1.0.0",
+            "widgetName": "Card"
+          },
+          "height": 130,
+          "width": 350
+        },
+        "version": "1.0.0",
+        "widgetName": "MonkeyKing"
+      }
+    },
+    "idSeq": 91291,
+    "index": 0,
+    "lastIndex": 71,
+    "layers": [
+      {
+        "height": 576,
+        "id": "wbc4QQx0",
+        "point": [
+          0.34693877551035257,
+          64.1530612244901
+        ],
+        "width": 1000,
+        "zIndex": 0
+      },
+      {
+        "height": 50,
+        "id": "wbcuOVs0",
+        "point": [
+          0,
+          641.5612244897959
+        ],
+        "width": 1000,
+        "zIndex": 1
+      },
+      {
+        "height": 16,
+        "id": "wbcP0x00",
+        "point": [
+          38.79746835443041,
+          28.959183673469397
+        ],
+        "width": 238,
+        "zIndex": 2
+      },
+      {
+        "height": 20,
+        "id": "wbchtWo0",
+        "point": [
+          38.79746835443041,
+          0
+        ],
+        "width": 72,
+        "zIndex": 3
+      },
+      {
+        "height": 32,
+        "id": "wbcu2J%0",
+        "point": [
+          839.7974683544303,
+          3.9280547662103515
+        ],
+        "width": 122,
+        "zIndex": 4
+      },
+      {
+        "height": 32,
+        "id": "wbc)ya90",
+        "point": [
+          761.7974683544303,
+          3.9280547662103515
+        ],
+        "width": 64,
+        "zIndex": 5
+      }
+    ],
+    "point": [
+      0,
+      0
+    ],
+    "type": "MainPad",
+    "width": 1000.3469387755104,
+    "zIndex": 4000
+  },
+  "scale": 1,
+  "themes": {
+    "widgetId2ThemeInfo": {
+      "wbc)ya90": {
+        "ButtonText": {
+          "active": {
+            "color": "#ffffff",
+            "font": {
+              "family": "",
+              "size": "",
+              "style": "normal",
+              "weight": "normal"
+            }
+          },
+          "disabled": {
+            "color": "#666666",
+            "font": {
+              "family": "",
+              "size": "",
+              "style": "normal",
+              "weight": "normal"
+            }
+          },
+          "focus": {
+            "color": "#ffffff",
+            "font": {
+              "family": "",
+              "size": "",
+              "style": "normal",
+              "weight": "normal"
+            }
+          },
+          "normal": {
+            "color": "#ffffff",
+            "font": {
+              "family": "",
+              "size": "",
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        },
+        "Container": {
+          "active": {
+            "background": {
+              "color": "#d50101"
+            },
+            "border": "none"
+          },
+          "disabled": {
+            "background": {
+              "color": "#e8e8e8"
+            },
+            "border": "none"
+          },
+          "focus": {
+            "background": {
+              "color": "#d50101"
+            }
+          },
+          "hover": {
+            "background": {
+              "color": "#c30000"
+            }
+          },
+          "normal": {
+            "background": {
+              "color": "#d50101"
+            },
+            "border": "none"
+          }
+        }
+      },
+      "wbc*sBq1": {
+        "Container": {
+          "normal": {
+            "height": 32,
+            "width": 800
+          }
+        },
+        "Input": {
+          "active": {
+            "background": "none",
+            "border": "none"
+          },
+          "hover": {
+            "background": {
+              "color": "#dddddd"
+            },
+            "border": "none"
+          },
+          "normal": {
+            "background": {
+              "color": "#e8e8e8"
+            },
+            "border": "none"
+          }
+        }
+      },
+      "wbc1fA823": {
+        "LabelConfig": {
+          "normal": {
+            "color": "#999999",
+            "font": {
+              "family": "",
+              "size": 14,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      },
+      "wbc4QQx0": {
+        "Container": {
+          "normal": {
+            "height": 576,
+            "width": 1000
+          }
+        }
+      },
+      "wbc5M%@2": {
+        "LabelConfig": {
+          "normal": {
+            "color": "#333333",
+            "font": {
+              "family": "",
+              "size": 16,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      },
+      "wbc8%Ln16": {
+        "LabelConfig": {
+          "normal": {
+            "color": "#999999",
+            "font": {
+              "family": "",
+              "size": 14,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      },
+      "wbc@xZQ15": {
+        "LabelConfig": {
+          "normal": {
+            "color": "#333333",
+            "font": {
+              "family": "",
+              "size": 16,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      },
+      "wbcCoUo19": {
+        "LabelConfig": {
+          "normal": {
+            "color": "#999999",
+            "font": {
+              "family": "",
+              "size": 14,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      },
+      "wbcJV2b3": {
+        "LabelConfig": {
+          "normal": {
+            "color": "#999999",
+            "font": {
+              "family": "",
+              "size": 14,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      },
+      "wbcN)S(21": {
+        "Container": {
+          "normal": {
+            "height": 50,
+            "width": 920
+          }
+        }
+      },
+      "wbcP0x00": {
+        "LabelConfig": {
+          "normal": {
+            "color": "#999999",
+            "font": {
+              "family": "",
+              "size": 14,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      },
+      "wbcQ%[G13": {
+        "Container": {
+          "normal": {
+            "height": 50,
+            "width": 920
+          }
+        }
+      },
+      "wbcZg6K2": {
+        "Container": {
+          "normal": {
+            "width": 120
+          }
+        }
+      },
+      "wbc]UVQ18": {
+        "LabelConfig": {
+          "normal": {
+            "color": "#333333",
+            "font": {
+              "family": "",
+              "size": 16,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      },
+      "wbc]w[$5": {
+        "Container": {
+          "normal": {
+            "height": 50,
+            "width": 920
+          }
+        }
+      },
+      "wbcdGc122": {
+        "LabelConfig": {
+          "normal": {
+            "color": "#333333",
+            "font": {
+              "family": "",
+              "size": 16,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      },
+      "wbcfB%C1": {
+        "Container": {
+          "normal": {
+            "height": 50,
+            "width": 920
+          }
+        }
+      },
+      "wbcfCG19": {
+        "Container": {
+          "normal": {
+            "height": 50,
+            "width": 920
+          }
+        }
+      },
+      "wbcfeEP12": {
+        "LabelConfig": {
+          "normal": {
+            "color": "#999999",
+            "font": {
+              "family": "",
+              "size": 14,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      },
+      "wbchtWo0": {
+        "LabelConfig": {
+          "normal": {
+            "color": "",
+            "font": {
+              "family": "",
+              "size": 18,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      },
+      "wbcmKjG17": {
+        "Container": {
+          "normal": {
+            "height": 50,
+            "width": 920
+          }
+        }
+      },
+      "wbco8a47": {
+        "LabelConfig": {
+          "normal": {
+            "color": "#999999",
+            "font": {
+              "family": "",
+              "size": 14,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      },
+      "wbcrusA6": {
+        "LabelConfig": {
+          "normal": {
+            "color": "#333333",
+            "font": {
+              "family": "",
+              "size": 16,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      },
+      "wbcu2J%0": {
+        "ButtonText": {
+          "focus": {
+            "color": "#ffffff",
+            "font": {
+              "family": "",
+              "size": "",
+              "style": "normal",
+              "weight": "normal"
+            }
+          },
+          "hover": {
+            "color": "#ffffff",
+            "font": {
+              "family": "",
+              "size": "",
+              "style": "normal",
+              "weight": "normal"
+            }
+          },
+          "normal": {
+            "color": "#666666",
+            "font": {
+              "family": "",
+              "size": "",
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        },
+        "Container": {
+          "active": {
+            "background": {
+              "color": "#bf0000"
+            },
+            "border": "none"
+          },
+          "focus": {
+            "background": {
+              "color": "#d50101"
+            }
+          },
+          "hover": {
+            "background": {
+              "color": "#d50101"
+            },
+            "border": "none"
+          },
+          "normal": {
+            "background": "none",
+            "border": {
+              "all": {
+                "color": "#999999",
+                "style": "solid",
+                "width": ""
+              },
+              "bottom": {
+                "color": "#999999",
+                "style": "solid",
+                "width": ""
+              },
+              "left": {
+                "color": "#999999",
+                "style": "solid",
+                "width": ""
+              },
+              "right": {
+                "color": "#999999",
+                "style": "solid",
+                "width": ""
+              },
+              "top": {
+                "color": "#999999",
+                "style": "solid",
+                "width": ""
+              }
+            }
+          }
+        }
+      },
+      "wbcuOVs0": {
+        "Container": {
+          "normal": {
+            "border": "none",
+            "height": 50,
+            "width": 1000
+          }
+        }
+      },
+      "wbcwRU)11": {
+        "LabelConfig": {
+          "normal": {
+            "color": "#333333",
+            "font": {
+              "family": "",
+              "size": 16,
+              "style": "normal",
+              "weight": "normal"
+            }
+          }
+        }
+      }
+    }
+  },
+  "type": "PolarBear",
+  "widgetId2ChildPad": {
+    "wbc4QQx0": {
+      "fatherId": "mainPad",
+      "group": false,
+      "height": 576,
+      "id": "acw]jV0",
+      "id2WidgetInfo": {
+        "wbcN)S(21": {
+          "childAreaId": "acw]jV0",
+          "id": "wbcN)S(21",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "TargetContainer": {
+              "module": "@lugia/lugia-web",
+              "monkeyType": "Point",
+              "props": {
+                "height": 130,
+                "width": 350
+              },
+              "version": "1.0.0",
+              "widgetName": "Card"
+            },
+            "height": 130,
+            "width": 350
+          },
+          "version": "1.0.0",
+          "widgetName": "MonkeyKing"
+        },
+        "wbcQ%[G13": {
+          "childAreaId": "acw]jV0",
+          "id": "wbcQ%[G13",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "TargetContainer": {
+              "module": "@lugia/lugia-web",
+              "monkeyType": "Point",
+              "props": {
+                "height": 130,
+                "width": 350
+              },
+              "version": "1.0.0",
+              "widgetName": "Card"
+            },
+            "height": 130,
+            "width": 350
+          },
+          "version": "1.0.0",
+          "widgetName": "MonkeyKing"
+        },
+        "wbc]w[$5": {
+          "childAreaId": "acw]jV0",
+          "id": "wbc]w[$5",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "TargetContainer": {
+              "module": "@lugia/lugia-web",
+              "monkeyType": "Point",
+              "props": {
+                "height": 130,
+                "width": 350
+              },
+              "version": "1.0.0",
+              "widgetName": "Card"
+            },
+            "height": 130,
+            "width": 350
+          },
+          "version": "1.0.0",
+          "widgetName": "MonkeyKing"
+        },
+        "wbcfB%C1": {
+          "childAreaId": "acw]jV0",
+          "id": "wbcfB%C1",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "TargetContainer": {
+              "module": "@lugia/lugia-web",
+              "monkeyType": "Point",
+              "props": {
+                "height": 130,
+                "width": 350
+              },
+              "version": "1.0.0",
+              "widgetName": "Card"
+            },
+            "height": 130,
+            "width": 350
+          },
+          "version": "1.0.0",
+          "widgetName": "MonkeyKing"
+        },
+        "wbcfCG19": {
+          "childAreaId": "acw]jV0",
+          "id": "wbcfCG19",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "TargetContainer": {
+              "module": "@lugia/lugia-web",
+              "monkeyType": "Point",
+              "props": {
+                "height": 130,
+                "width": 350
+              },
+              "version": "1.0.0",
+              "widgetName": "Card"
+            },
+            "height": 130,
+            "width": 350
+          },
+          "version": "1.0.0",
+          "widgetName": "MonkeyKing"
+        },
+        "wbcmKjG17": {
+          "childAreaId": "acw]jV0",
+          "id": "wbcmKjG17",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "TargetContainer": {
+              "module": "@lugia/lugia-web",
+              "monkeyType": "Point",
+              "props": {
+                "height": 130,
+                "width": 350
+              },
+              "version": "1.0.0",
+              "widgetName": "Card"
+            },
+            "height": 130,
+            "width": 350
+          },
+          "version": "1.0.0",
+          "widgetName": "MonkeyKing"
+        }
+      },
+      "idSeq": 0,
+      "index": 1,
+      "lastIndex": 0,
+      "layers": [
+        {
+          "height": 50,
+          "id": "wbcfB%C1",
+          "point": [
+            43.532162231981374,
+            151.48927925600628
+          ],
+          "width": 920,
+          "zIndex": 0
+        },
+        {
+          "height": 50,
+          "id": "wbc]w[$5",
+          "point": [
+            42.532162231981374,
+            84.48927925600628
+          ],
+          "width": 920,
+          "zIndex": 1
+        },
+        {
+          "height": 50,
+          "id": "wbcfCG19",
+          "point": [
+            41.532162231981374,
+            20.48927925600617
+          ],
+          "width": 920,
+          "zIndex": 2
+        },
+        {
+          "height": 50,
+          "id": "wbcQ%[G13",
+          "point": [
+            42.34848876259366,
+            217.2239731335569
+          ],
+          "width": 920,
+          "zIndex": 3
+        },
+        {
+          "height": 50,
+          "id": "wbcmKjG17",
+          "point": [
+            44.36889692585896,
+            281.223973133557
+          ],
+          "width": 920,
+          "zIndex": 4
+        },
+        {
+          "height": 50,
+          "id": "wbcN)S(21",
+          "point": [
+            45.36889692585896,
+            348.2239731335569
+          ],
+          "width": 920,
+          "zIndex": 5
+        }
+      ],
+      "point": [
+        0.34693877551035257,
+        89.5918367346942
+      ],
+      "type": "ChildPad",
+      "widgetId": "wbc4QQx0",
+      "width": 1000,
+      "zIndex": 1000
+    },
+    "wbcN)S(21": {
+      "fatherId": "acw]jV0",
+      "group": false,
+      "height": 50,
+      "id": "ac@#xa6",
+      "id2WidgetInfo": {
+        "wbc1fA823": {
+          "childAreaId": "ac@#xa6",
+          "id": "wbc1fA823",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "text": "2019.10.16"
+          },
+          "version": "1.0.0",
+          "widgetName": "Label"
+        },
+        "wbcdGc122": {
+          "childAreaId": "ac@#xa6",
+          "id": "wbcdGc122",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "text": "16号前 交付鑫哥的设计稿"
+          },
+          "version": "1.0.0",
+          "widgetName": "Label"
+        },
+        "wbcuB5&24": {
+          "childAreaId": "ac@#xa6",
+          "id": "wbcuB5&24",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "value": true
+          },
+          "version": "1.0.0",
+          "widgetName": "Radio"
+        }
+      },
+      "idSeq": 0,
+      "index": 7,
+      "lastIndex": 0,
+      "layers": [
+        {
+          "height": 18,
+          "id": "wbcdGc122",
+          "point": [
+            37,
+            18
+          ],
+          "width": 182,
+          "zIndex": 0
+        },
+        {
+          "height": 16,
+          "id": "wbc1fA823",
+          "point": [
+            834,
+            18.5
+          ],
+          "width": 70,
+          "zIndex": 1
+        },
+        {
+          "height": 26,
+          "id": "wbcuB5&24",
+          "point": [
+            12.486819184763135,
+            16.64208570433152
+          ],
+          "width": 36,
+          "zIndex": 2
+        }
+      ],
+      "point": [
+        45.36889692585896,
+        348.2239731335569
+      ],
+      "type": "ChildPad",
+      "widgetId": "wbcN)S(21",
+      "width": 920,
+      "zIndex": 1000
+    },
+    "wbcQ%[G13": {
+      "fatherId": "acw]jV0",
+      "group": false,
+      "height": 50,
+      "id": "acoNvM4",
+      "id2WidgetInfo": {
+        "wbc8%Ln16": {
+          "childAreaId": "acoNvM4",
+          "id": "wbc8%Ln16",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "text": "2019.10.16"
+          },
+          "version": "1.0.0",
+          "widgetName": "Label"
+        },
+        "wbc@xZQ15": {
+          "childAreaId": "acoNvM4",
+          "id": "wbc@xZQ15",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "text": "明天下班要去接孩子，想着该去物业交取暖费了。"
+          },
+          "version": "1.0.0",
+          "widgetName": "Label"
+        },
+        "wbccJ9@14": {
+          "childAreaId": "acoNvM4",
+          "id": "wbccJ9@14",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "value": true
+          },
+          "version": "1.0.0",
+          "widgetName": "Radio"
+        }
+      },
+      "idSeq": 0,
+      "index": 5,
+      "lastIndex": 0,
+      "layers": [
+        {
+          "height": 26,
+          "id": "wbccJ9@14",
+          "point": [
+            12.8354430379743,
+            14.798049007083762
+          ],
+          "width": 36,
+          "zIndex": 0
+        },
+        {
+          "height": 18,
+          "id": "wbc@xZQ15",
+          "point": [
+            34,
+            16
+          ],
+          "width": 352,
+          "zIndex": 1
+        },
+        {
+          "height": 16,
+          "id": "wbc8%Ln16",
+          "point": [
+            834,
+            18.5
+          ],
+          "width": 70,
+          "zIndex": 2
+        }
+      ],
+      "point": [
+        42.34848876259366,
+        217.2239731335569
+      ],
+      "type": "ChildPad",
+      "widgetId": "wbcQ%[G13",
+      "width": 920,
+      "zIndex": 1000
+    },
+    "wbc]w[$5": {
+      "fatherId": "acw]jV0",
+      "group": false,
+      "height": 50,
+      "id": "acZg832",
+      "id2WidgetInfo": {
+        "wbcF24X8": {
+          "childAreaId": "acZg832",
+          "id": "wbcF24X8",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "value": true
+          },
+          "version": "1.0.0",
+          "widgetName": "Radio"
+        },
+        "wbco8a47": {
+          "childAreaId": "acZg832",
+          "id": "wbco8a47",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "text": "2019.10.16"
+          },
+          "version": "1.0.0",
+          "widgetName": "Label"
+        },
+        "wbcrusA6": {
+          "childAreaId": "acZg832",
+          "id": "wbcrusA6",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "text": "Lugia mega v1.4在20日要发布，在18号要进行最终上线测试"
+          },
+          "version": "1.0.0",
+          "widgetName": "Label"
+        }
+      },
+      "idSeq": 0,
+      "index": 3,
+      "lastIndex": 0,
+      "layers": [
+        {
+          "height": 18,
+          "id": "wbcrusA6",
+          "point": [
+            37,
+            18
+          ],
+          "width": 426,
+          "zIndex": 0
+        },
+        {
+          "height": 16,
+          "id": "wbco8a47",
+          "point": [
+            834,
+            18.5
+          ],
+          "width": 70,
+          "zIndex": 1
+        },
+        {
+          "height": 26,
+          "id": "wbcF24X8",
+          "point": [
+            12.661131111368718,
+            16.761351759377362
+          ],
+          "width": 36,
+          "zIndex": 2
+        }
+      ],
+      "point": [
+        42.532162231981374,
+        84.48927925600628
+      ],
+      "type": "ChildPad",
+      "widgetId": "wbc]w[$5",
+      "width": 920,
+      "zIndex": 1000
+    },
+    "wbcfB%C1": {
+      "fatherId": "acw]jV0",
+      "group": false,
+      "height": 50,
+      "id": "acXd4i1",
+      "id2WidgetInfo": {
+        "wbc5M%@2": {
+          "childAreaId": "acXd4i1",
+          "id": "wbc5M%@2",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "text": "16号前 交付鑫哥的设计稿"
+          },
+          "version": "1.0.0",
+          "widgetName": "Label"
+        },
+        "wbcJV2b3": {
+          "childAreaId": "acXd4i1",
+          "id": "wbcJV2b3",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "text": "2019.10.16"
+          },
+          "version": "1.0.0",
+          "widgetName": "Label"
+        },
+        "wbcWc^84": {
+          "childAreaId": "acXd4i1",
+          "id": "wbcWc^84",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "value": true
+          },
+          "version": "1.0.0",
+          "widgetName": "Radio"
+        }
+      },
+      "idSeq": 0,
+      "index": 2,
+      "lastIndex": 0,
+      "layers": [
+        {
+          "height": 18,
+          "id": "wbc5M%@2",
+          "point": [
+            37,
+            18
+          ],
+          "width": 182,
+          "zIndex": 0
+        },
+        {
+          "height": 16,
+          "id": "wbcJV2b3",
+          "point": [
+            834,
+            18.5
+          ],
+          "width": 70,
+          "zIndex": 1
+        },
+        {
+          "height": 26,
+          "id": "wbcWc^84",
+          "point": [
+            12.486819184763135,
+            16.64208570433152
+          ],
+          "width": 36,
+          "zIndex": 2
+        }
+      ],
+      "point": [
+        43.532162231981374,
+        151.48927925600628
+      ],
+      "type": "ChildPad",
+      "widgetId": "wbcfB%C1",
+      "width": 920,
+      "zIndex": 1000
+    },
+    "wbcfCG19": {
+      "fatherId": "acw]jV0",
+      "group": false,
+      "height": 50,
+      "id": "acPf[!3",
+      "id2WidgetInfo": {
+        "wbcJQ(N10": {
+          "childAreaId": "acPf[!3",
+          "id": "wbcJQ(N10",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "value": true
+          },
+          "version": "1.0.0",
+          "widgetName": "Radio"
+        },
+        "wbcfeEP12": {
+          "childAreaId": "acPf[!3",
+          "id": "wbcfeEP12",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "text": "2019.10.16"
+          },
+          "version": "1.0.0",
+          "widgetName": "Label"
+        },
+        "wbcwRU)11": {
+          "childAreaId": "acPf[!3",
+          "id": "wbcwRU)11",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "text": "明天下班要去接孩子，想着该去物业交取暖费了。"
+          },
+          "version": "1.0.0",
+          "widgetName": "Label"
+        }
+      },
+      "idSeq": 0,
+      "index": 4,
+      "lastIndex": 0,
+      "layers": [
+        {
+          "height": 26,
+          "id": "wbcJQ(N10",
+          "point": [
+            12.8354430379743,
+            14.798049007083762
+          ],
+          "width": 36,
+          "zIndex": 0
+        },
+        {
+          "height": 18,
+          "id": "wbcwRU)11",
+          "point": [
+            34,
+            16
+          ],
+          "width": 352,
+          "zIndex": 1
+        },
+        {
+          "height": 16,
+          "id": "wbcfeEP12",
+          "point": [
+            834,
+            18.5
+          ],
+          "width": 70,
+          "zIndex": 2
+        }
+      ],
+      "point": [
+        41.532162231981374,
+        20.48927925600617
+      ],
+      "type": "ChildPad",
+      "widgetId": "wbcfCG19",
+      "width": 920,
+      "zIndex": 1000
+    },
+    "wbcmKjG17": {
+      "fatherId": "acw]jV0",
+      "group": false,
+      "height": 50,
+      "id": "acyjZ#5",
+      "id2WidgetInfo": {
+        "wbc*BML20": {
+          "childAreaId": "acyjZ#5",
+          "id": "wbc*BML20",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "value": true
+          },
+          "version": "1.0.0",
+          "widgetName": "Radio"
+        },
+        "wbcCoUo19": {
+          "childAreaId": "acyjZ#5",
+          "id": "wbcCoUo19",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "text": "2019.10.16"
+          },
+          "version": "1.0.0",
+          "widgetName": "Label"
+        },
+        "wbc]UVQ18": {
+          "childAreaId": "acyjZ#5",
+          "id": "wbc]UVQ18",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "text": "Lugia mega v1.4在20日要发布，在18号要进行最终上线测试"
+          },
+          "version": "1.0.0",
+          "widgetName": "Label"
+        }
+      },
+      "idSeq": 0,
+      "index": 6,
+      "lastIndex": 0,
+      "layers": [
+        {
+          "height": 18,
+          "id": "wbc]UVQ18",
+          "point": [
+            37,
+            18
+          ],
+          "width": 426,
+          "zIndex": 0
+        },
+        {
+          "height": 16,
+          "id": "wbcCoUo19",
+          "point": [
+            834,
+            18.5
+          ],
+          "width": 70,
+          "zIndex": 1
+        },
+        {
+          "height": 26,
+          "id": "wbc*BML20",
+          "point": [
+            12.661131111368718,
+            16.761351759377362
+          ],
+          "width": 36,
+          "zIndex": 2
+        }
+      ],
+      "point": [
+        44.36889692585896,
+        281.223973133557
+      ],
+      "type": "ChildPad",
+      "widgetId": "wbcmKjG17",
+      "width": 920,
+      "zIndex": 1000
+    },
+    "wbcuOVs0": {
+      "fatherId": "mainPad",
+      "group": false,
+      "height": 50,
+      "id": "ac(pue0",
+      "id2WidgetInfo": {
+        "wbc*sBq1": {
+          "childAreaId": "ac(pue0",
+          "id": "wbc*sBq1",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "autoFocus": false,
+            "disabled": false,
+            "readOnly": false,
+            "size": "default",
+            "type": "text",
+            "validateStatus": "success",
+            "validateType": "default"
+          },
+          "version": "1.0.0",
+          "widgetName": "Input"
+        },
+        "wbcZg6K2": {
+          "childAreaId": "ac(pue0",
+          "id": "wbcZg6K2",
+          "module": "@lugia/lugia-web",
+          "props": {
+            "block": false,
+            "disabled": false,
+            "shape": "default",
+            "size": "default",
+            "text": "添加代办",
+            "type": "primary"
+          },
+          "version": "1.0.0",
+          "widgetName": "Button"
+        }
+      },
+      "idSeq": 0,
+      "index": 8,
+      "lastIndex": 0,
+      "layers": [
+        {
+          "height": 32,
+          "id": "wbc*sBq1",
+          "point": [
+            25.93670886075961,
+            9
+          ],
+          "width": 800,
+          "zIndex": 0
+        },
+        {
+          "height": 32,
+          "id": "wbcZg6K2",
+          "point": [
+            844,
+            8
+          ],
+          "width": 120,
+          "zIndex": 1
+        }
+      ],
+      "point": [
+        0,
+        667
+      ],
+      "type": "ChildPad",
+      "widgetId": "wbcuOVs0",
+      "width": 1000,
+      "zIndex": 1000
+    }
+  },
+  "widgetId2Locked": {}
+}
